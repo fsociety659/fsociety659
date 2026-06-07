@@ -10,9 +10,9 @@
 
 <br/>
 
-**знаю** [![Python](https://shields.io)](https://python.org) 
+**знаю** [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 &nbsp;•&nbsp; 
-**учу** [![C](https://shields.io)](https://wikipedia.org)
+**учу** [![C](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 </div>
 
