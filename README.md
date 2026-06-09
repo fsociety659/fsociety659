@@ -16,7 +16,8 @@
 ![Arch Linux](https://img.shields.io/badge/use-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Mr Robot](https://img.shields.io/badge/fsociety-darkred?style=for-the-badge)
 
-## `> my social networks`
+
+## `my social networks`
 
 [![Telegram](https://img.shields.io/badge/@eco1kd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco1kd)
 [![Discord](https://img.shields.io/badge/Discord-gondonishe0398__55110-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1410030335844155423)
