@@ -1,30 +1,31 @@
 <div align="center">
 
-```text
-█████  ███   ███    █   █   █ ████  
-█     █     █   █  ██   █  █  █   █ 
-████  █     █   █   █   ███   █   █ 
-█     █     █   █   █   █  █  █   █ 
-█████  ███   ███   ███  █   █ ████  
-```
+<img width="500" src="Keioncitas.gif">
 
-<br/>
+<br><br>
 
-![Python](https://img.shields.io/badge/know-Python-7C3AED?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/learn-C-10b981?style=for-the-badge&logo=c&logoColor=white)
-![Neovim](https://img.shields.io/badge/use-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/use-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Mr Robot](https://img.shields.io/badge/fsociety-darkred?style=for-the-badge)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Hello%2C+friend.;You'll+never+surpass+me.;I'm+the+only+one+who+can+beat+me." alt="Typing SVG" />
 
+<br><br>
 
-## `my social networks`
+---
 
-[![Telegram](https://img.shields.io/badge/@eco1kd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco1kd)
-[![Discord](https://img.shields.io/badge/Discord-gondonishe0398__55110-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1410030335844155423)
-[![TikTok](https://img.shields.io/badge/@zoros.n1-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zoros.n1)
+**stack / tools**
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=c,python,arch,neovim,vscode" />
 
-*Hello, friend. Hello, friend? That's lame. Maybe I should give you a name?*
+<br><br>
+
+---
+
+**my social networks**
+
+[![Telegram](https://img.shields.io/badge/@eco1kd-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco1kd)
+[![Discord](https://img.shields.io/badge/Discord-181717?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1410030335844155423)
+[![TikTok](https://img.shields.io/badge/@zoros.n1-181717?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@zoros.n1)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=8B949E&center=true&vCenter=true&width=600&repeat=false&lines=Hello%2C+friend.+Hello%2C+friend%3F+That's+lame.+Maybe+I+should+give+you+a+name%3F" alt="quote" />
 
 </div>
