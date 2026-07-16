@@ -14,7 +14,7 @@
 
 ### languages
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fsociety659&theme=github_dark)
+## cards don't work (:
 
 <br><br>
 
