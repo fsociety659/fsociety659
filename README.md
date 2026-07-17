@@ -14,7 +14,7 @@
 
 ### languages
 
-## cards don't work (:
+![eco1kd](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eco1kd&layout=compact&langs_count=8&theme=nightowl)
 
 <br><br>
 
@@ -22,7 +22,7 @@
 
 ### activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fsociety659&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=eco1kd&theme=github-dark&hide_border=true" />
 
 <br><br>
 
