@@ -20,14 +20,6 @@
 
 ---
 
-### activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=eco1kd&theme=github-dark&hide_border=true" />
-
-<br><br>
-
----
-
 ### my social networks
 
 [![Telegram](https://img.shields.io/badge/@eco1kd-181717?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/eco1kd)
